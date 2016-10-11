@@ -1,0 +1,21 @@
+{
+  "name": "crawlerscraper",
+  "version": "1.0.0",
+  "description": "node.js webcrawler and webscraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "nodemon": "^1.11.0",
+    "request": "^2.75.0",
+    "url-parse": "^1.1.4"
+  }
+}
